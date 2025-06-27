@@ -1,0 +1,50 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# Colab output files
+*.csv
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.tfrecord
+*.log
+*.out
+*.bak
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Google Drive trash or autosave
+~$*
+
+# TensorBoard logs
+logs/
+
+# Model checkpoints
+checkpoints/
+*.weights
+*.onnx
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.zip
+*.tar.gz
